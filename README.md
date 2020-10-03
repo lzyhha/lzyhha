@@ -1,5 +1,5 @@
 ### Hi there 👋
-🤔初级炼丹师
+🤔初级摸鱼师，有一个多月的摸鱼经验:fish:
 <!--
 **lzyhha/lzyhha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
